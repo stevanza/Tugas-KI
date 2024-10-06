@@ -1,0 +1,5 @@
+
+Key: EFC5AB81674D2309
+Plaintext: gianjayy
+Ciphertext: 0CDFE831D40B8D08
+Decrypted: 
